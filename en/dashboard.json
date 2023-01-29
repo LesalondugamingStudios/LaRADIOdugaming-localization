@@ -1,0 +1,27 @@
+{
+  "WELCOME": "Welcome, {{user}}",
+
+  "FRANCHISE_TRENDING": "Trending franchises",
+  "HOLDER_TRENDING": "Trending games and animes",
+
+  "FRANCHISE_NAME": "Franchise {{name}}",
+  "HOLDER_NAME": "{{type}} {{name}}",
+  "FRANCHISE_LIST": "Franchise list",
+  "HOLDER_LIST": "Game and anime list",
+
+  "FRANCHISES": "Franchises",
+  "HOLDERS": "Games and animes",
+  "MUSICS": "Musics",
+  "FRANCHISE_MUSIC_LIST": "Franchise's musics",
+  
+  "YEAR": "Year: {{year}}",
+  "STUDIOS": "Studios: {{studios}}",
+  "DEVICES": "Devices: {{devices}}",
+  
+  "SEARCH_TITLE": "{{query}} - Search",
+
+  "SETTINGS_TITLE": "User settings",
+  "SETTINGS": {
+    "REFRESH_MUSIC_LIST": "Recommendations reinitialized after each song transition"
+  }
+}

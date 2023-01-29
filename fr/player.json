@@ -1,0 +1,10 @@
+{
+  "REWIND_ERROR": "Il n'y a pas de musique à rejouer.",
+  "SKIP_ERROR": "Aucune musique à passer.",
+  "FILTER_ERROR": "Le filtre semble invalide !",
+
+  "MUSIC_ERROR": "Une erreur est survenue lors de la lecture de la musique.",
+
+  "COMPOSERS": "Compositeurs",
+  "DURATION": "Temps"
+}

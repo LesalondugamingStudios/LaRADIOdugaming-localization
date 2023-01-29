@@ -1,0 +1,12 @@
+{
+  "INIT_MESSAGE": "System initialization ...",
+
+  "SKIP": "skip the music",
+  "REWIND": "go back to the previous music",
+  
+  "ASKING_TO_SKIP": "{{user}} is asking to {{action}}",
+  "VOTE_DURATION": "Voting ends in {{time}} seconds.",
+  "VOTE_ALREADY_STARTED": "A vote is already in progress.",
+  "VOTE_LOST": "Not everyone agreed.",
+  "SKIP_BUTTON": "Skip"
+}

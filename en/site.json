@@ -1,0 +1,22 @@
+{
+  "DESCRIPTION": "LaRADIOdugaming, a music platform made to listen to your favorite game and anime OST.",
+
+  "HOME": "Home",
+  "DASHBOARD": "Dashboard",
+  "MENU": "Menu",
+  "SEARCH": "Search",
+  "LOGIN": "Log in",
+  "LOGOUT": "Log out",
+
+  "BACK_MENU": "Back to menu",
+
+  "HTTP_ERROR": "Oops, error {{code}}!",
+
+  "HOMEPAGE": {
+    "DESCRIPTION": "It's 400+ musics, a bot Discord and a site dedicated to musics.",
+    "ADD_BOT": "ADD THE BOT",
+    "JOIN_SERVER": "JOIN THE SERVER",
+    "TOS": "Terms of Service",
+    "PRIVACY_POLICY": "Privacy Policy"
+  }
+}
