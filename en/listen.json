@@ -6,5 +6,7 @@
   "HTMLAUDIO_ERROR": "Your browser does not support the audio element.",
 
   "MUSIC_UNAVAILABLE": "The requested music seems to be unavailable, please try again with another one!",
-  "PLAYLIST_FINISHED": "You have finished listening to all the music in the playlist."
+  "PLAYLIST_FINISHED": "You have finished listening to all the music in the playlist.",
+
+  "RECOMMENDATIONS": "Recommendations"
 }

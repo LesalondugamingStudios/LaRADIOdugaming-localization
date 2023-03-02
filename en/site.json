@@ -13,10 +13,11 @@
   "HTTP_ERROR": "Oops, error {{code}}!",
 
   "HOMEPAGE": {
-    "DESCRIPTION": "It's 400+ musics, a bot Discord and a site dedicated to musics.",
+    "DESCRIPTION": "It's 500+ musics, a bot Discord and a site dedicated to musics.",
     "ADD_BOT": "ADD THE BOT",
     "JOIN_SERVER": "JOIN THE SERVER",
     "TOS": "Terms of Service",
-    "PRIVACY_POLICY": "Privacy Policy"
+    "PRIVACY_POLICY": "Privacy Policy",
+    "DISCLAIMER": "DISCLAIMER: This website is NOT a music download site. The rights of the music belongs to the original creators. No copyright infrigement intended."
   }
 }

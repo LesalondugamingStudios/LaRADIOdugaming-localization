@@ -6,5 +6,7 @@
   "MUSIC_ERROR": "Une erreur est survenue lors de la lecture de la musique.",
 
   "COMPOSERS": "Compositeurs",
-  "DURATION": "Temps"
+  "DURATION": "Temps",
+
+  "LYRICS": "Paroles"
 }

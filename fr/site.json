@@ -5,18 +5,19 @@
   "DASHBOARD": "Dashboard",
   "MENU": "Menu",
   "SEARCH": "Rechercher",
-  "LOGIN": "Se connecter",
-  "LOGOUT": "Se déconnecter",
+  "LOGIN": "Connexion",
+  "LOGOUT": "Déconnexion",
 
   "BACK_MENU": "Retour au menu",
 
   "HTTP_ERROR": "Oups, erreur {{code}} !",
 
   "HOMEPAGE": {
-    "DESCRIPTION": "C'est 400+ musiques, un bot Discord et un site dédié aux musiques.",
+    "DESCRIPTION": "C'est 500+ musiques, un bot Discord et un site dédié aux musiques.",
     "ADD_BOT": "AJOUTEZ LE BOT",
     "JOIN_SERVER": "REJOIGNEZ LE SERVEUR",
     "TOS": "Conditions Générales d'Utilisation",
-    "PRIVACY_POLICY": "Politique de Confidentialité"
+    "PRIVACY_POLICY": "Politique de Confidentialité",
+    "DISCLAIMER": "DISCLAIMER : Ce site n'est PAS un site de téléchargement de musique. Les droits des musiques reviennent à leurs créateurs originaux. Aucune violation du droit d’auteur n’est prévue."
   }
 }

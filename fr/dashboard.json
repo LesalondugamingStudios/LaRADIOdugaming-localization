@@ -12,6 +12,7 @@
   "FRANCHISES": "Franchises",
   "HOLDERS": "Jeux et animes",
   "MUSICS": "Musiques",
+  "ALBUMS": "Albums",
   "FRANCHISE_MUSIC_LIST": "Musiques de la franchise",
   
   "YEAR": "Année : {{year}}",
@@ -22,6 +23,7 @@
 
   "SETTINGS_TITLE": "Paramètres utilisateur",
   "SETTINGS": {
-    "REFRESH_MUSIC_LIST": "Recommandations réinitialisées après chaque changement de musique"
+    "REFRESH_MUSIC_LIST": "Recommandations réinitialisées après chaque changement de musique",
+    "LYRICS": "Afficher les paroles lorsqu'elles sont disponibles"
   }
 }

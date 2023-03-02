@@ -12,6 +12,7 @@
   "FRANCHISES": "Franchises",
   "HOLDERS": "Games and animes",
   "MUSICS": "Musics",
+  "ALBUMS": "Albums",
   "FRANCHISE_MUSIC_LIST": "Franchise's musics",
   
   "YEAR": "Year: {{year}}",
@@ -22,6 +23,7 @@
 
   "SETTINGS_TITLE": "User settings",
   "SETTINGS": {
-    "REFRESH_MUSIC_LIST": "Recommendations reinitialized after each song transition"
+    "REFRESH_MUSIC_LIST": "Recommendations reinitialized after each song transition",
+    "LYRICS": "Display lyrics when available"
   }
 }

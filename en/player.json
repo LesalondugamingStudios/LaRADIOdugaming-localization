@@ -6,5 +6,7 @@
   "MUSIC_ERROR": "An error occurred while playing the music.",
 
   "COMPOSERS": "Composers",
-  "DURATION": "Duration"
+  "DURATION": "Duration",
+
+  "LYRICS": "Lyrics"
 }

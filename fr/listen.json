@@ -6,5 +6,7 @@
   "HTMLAUDIO_ERROR": "Votre navigateur ne prend pas en charge l'élément audio.",
 
   "MUSIC_UNAVAILABLE": "La musique demandée semble être introuvable, veuillez réessayer avec une autre !",
-  "PLAYLIST_FINISHED": "Tu as terminé d'écouter toutes les musiques de la playlist."
+  "PLAYLIST_FINISHED": "Tu as terminé d'écouter toutes les musiques de la playlist.",
+
+  "RECOMMENDATIONS": "Recommandations"
 }
