@@ -1,0 +1,40 @@
+{
+  "YOUR_FILTERS": "Tes filtres",
+  "FILTER_LIST": "Liste des filtres",
+  "EDIT_TITLE": "Édition des filtres",
+
+  "NO_FILTERS": "Tu n'as pour l'instant aucun filtre enregistré.",
+
+  "DELETE": "Supprimer le filtre {{name}}",
+  "DELETE_CONFIRM": "Êtes-vous sûr de vouloir supprimer le filtre {{name}} ?",
+  "NO_GOBACK": "Non, je veux revenir à la liste",
+
+  "DESCRIPTION": {
+    "NAME": "Nom : {{name}}",
+    "DATA": "Données : {{data}}"
+  },
+  "ACTIONS": {
+    "CREATE": "Créer un filtre",
+    "VIEW": "Visualiser",
+    "OVERVIEW": "Aperçu",
+    "EDIT": "Modifier le filtre",
+    "RENAME": "Renommer le filtre",
+    "DELETE": "Supprimer le filtre"
+  },
+
+  "TO_INCLUDE": "À inclure :",
+  "TO_EXCLUDE": "À exclure :",
+
+  "ARGS": {
+    "HOLDER_TYPE": "Type de holder",
+    "YEAR": "Année de sortie du jeu ou de l'anime",
+    "STUDIOS": "Studios",
+    "MUSIC_TYPE": "Type de musique",
+    "COMPOSERS": "Compositeurs",
+    "OTHER_FILTERS": "Autres filtres",
+    "IS_OFFICIAL": "La musique doit-elle être officielle ?",
+    "IS_FAMOUS": "La musique doit-elle être connue ?",
+    "DURATION_GT": "La musique doit durer plus de : (en s)",
+    "DURATION_LT": "La musique doit durer moins de : (en s)"
+  }
+}

@@ -1,9 +1,28 @@
 {
   "ERROR": "Une erreur est survenue !",
 
+  "NAME": "Nom",
+
   "SAVE": "Sauvegarder",
+  "ADD": "Ajouter",
+  "VALIDATE": "Valider",
+  "CLOSE": "Fermer",
+  "RESET": "Réinitialiser",
+
+  "YES": "Oui",
+  "NO": "Non",
+
+  "OTHER": "Autre",
 
   "GAME": "Jeu",
   "ANIME": "Anime",
-  "OTHER": "Autre"
+
+  "OST": "OST",
+  "OP": "Opening",
+  "ED": "Ending",
+  "REMIX": "Remix",
+  "PARODY": "Parodie",
+  "FANMADE": "Fanmade",
+
+  "UNSPECIFIED": "Non spécifié"
 }

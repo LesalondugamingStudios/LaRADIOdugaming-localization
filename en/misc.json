@@ -1,9 +1,28 @@
 {
   "ERROR": "An error occurred!",
 
+  "NAME": "Name",
+
   "SAVE": "Save",
+  "ADD": "Add",
+  "VALIDATE": "Confirm",
+  "CLOSE": "Close",
+  "RESET": "Reset",
+
+  "YES": "Yes",
+  "NO": "No",
+
+  "OTHER": "Other",
 
   "GAME": "Game",
   "ANIME": "Anime",
-  "OTHER": "Other"
+
+  "OST": "OST",
+  "OP": "Opening",
+  "ED": "Ending",
+  "REMIX": "Remix",
+  "PARODY": "Parody",
+  "FANMADE": "Fanmade",
+
+  "UNSPECIFIED": "Unspecified"
 }
