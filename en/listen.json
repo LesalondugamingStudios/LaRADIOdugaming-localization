@@ -8,5 +8,12 @@
   "MUSIC_UNAVAILABLE": "The requested music seems to be unavailable, please try again with another one!",
   "PLAYLIST_FINISHED": "You have finished listening to all the music in the playlist.",
 
-  "RECOMMENDATIONS": "Recommendations"
+  "RECOMMENDATIONS": "Recommendations",
+  "SHARE": "Share the music",
+
+  "FILTER" : {
+    "EXCLUDE_FRANCHISE": "Exclude this franchise from the filter",
+    "EXCLUDE_HOLDER": "Exclude this game or anime from the filter",
+    "EXCLUDE_MUSIC": "Exclude this music from the filter"
+  }
 }

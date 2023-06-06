@@ -4,10 +4,13 @@
   "EDIT_TITLE": "Édition des filtres",
 
   "NO_FILTERS": "Tu n'as pour l'instant aucun filtre enregistré.",
+  "CREATE_FILTER": "Crées-en un !",
 
   "DELETE": "Supprimer le filtre {{name}}",
   "DELETE_CONFIRM": "Êtes-vous sûr de vouloir supprimer le filtre {{name}} ?",
   "NO_GOBACK": "Non, je veux revenir à la liste",
+
+  "ALREADY_IN_FILTER": "Cet objet est déjà inclus dans le filtre.",
 
   "DESCRIPTION": {
     "NAME": "Nom : {{name}}",
@@ -19,7 +22,8 @@
     "OVERVIEW": "Aperçu",
     "EDIT": "Modifier le filtre",
     "RENAME": "Renommer le filtre",
-    "DELETE": "Supprimer le filtre"
+    "DELETE": "Supprimer le filtre",
+    "BACK_TO_LIST": "Retourner à la liste des filtres"
   },
 
   "TO_INCLUDE": "À inclure :",

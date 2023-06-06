@@ -1,5 +1,6 @@
 {
   "ERROR": "An error occurred!",
+  "REQUEST_FAILED": "The request failed.",
 
   "NAME": "Name",
 
@@ -24,5 +25,8 @@
   "PARODY": "Parody",
   "FANMADE": "Fanmade",
 
-  "UNSPECIFIED": "Unspecified"
+  "UNSPECIFIED": "Unspecified",
+  "UNKNOWN": "Unknown",
+
+  "COPIED_TO_CLIPBOARD": "Copied to clipboard."
 }

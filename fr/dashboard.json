@@ -8,6 +8,7 @@
   "HOLDER_NAME": "{{type}} {{name}}",
   "FRANCHISE_LIST": "Liste des franchises",
   "HOLDER_LIST": "Liste des jeux & animes",
+  "LIST": "Liste des contenus",
 
   "FRANCHISES": "Franchises",
   "HOLDERS": "Jeux et animes",
@@ -24,6 +25,15 @@
   "SETTINGS_TITLE": "Paramètres utilisateur",
   "SETTINGS": {
     "REFRESH_MUSIC_LIST": "Recommandations réinitialisées après chaque changement de musique",
-    "LYRICS": "Afficher les paroles lorsqu'elles sont disponibles"
+    "LYRICS": "Afficher les paroles lorsqu'elles sont disponibles",
+
+    "SESSIONS": "Tes sessions",
+    "SESSION_EXPIRES": "Expire le : {{date}}",
+    "SESSION_TYPES": {
+      "WEBSITE": "Site internet",
+      "WINDOWSAPP": "Client Windows",
+      "ANDROIDAPP": "Client Android"
+    },
+    "SESSION_LOGOUT": "Déconnecter la session"
   }
 }

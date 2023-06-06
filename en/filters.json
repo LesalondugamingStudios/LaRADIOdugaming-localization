@@ -4,10 +4,13 @@
   "EDIT_TITLE": "Editing filters",
 
   "NO_FILTERS": "You don't have any filters registered yet.",
+  "CREATE_FILTER": "Create one!",
 
   "DELETE": "Delete the filter {{name}}",
   "DELETE_CONFIRM": "Are you sure you want to remove the {{name}} filter?",
   "NO_GOBACK": "No, I want to go back to the list",
+
+  "ALREADY_IN_FILTER": "This item is already included in the filter.",
 
   "DESCRIPTION": {
     "NAME": "Name: {{name}}",
@@ -19,7 +22,8 @@
     "OVERVIEW": "Overview",
     "EDIT": "Edit the filter",
     "RENAME": "Rename the filter",
-    "DELETE": "Delete the filter"
+    "DELETE": "Delete the filter",
+    "BACK_TO_LIST": "Go back to the list of filters"
   },
 
   "TO_INCLUDE": "To include:",

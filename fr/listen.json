@@ -8,5 +8,12 @@
   "MUSIC_UNAVAILABLE": "La musique demandée semble être introuvable, veuillez réessayer avec une autre !",
   "PLAYLIST_FINISHED": "Tu as terminé d'écouter toutes les musiques de la playlist.",
 
-  "RECOMMENDATIONS": "Recommandations"
+  "RECOMMENDATIONS": "Recommandations",
+  "SHARE": "Partager la musique",
+
+  "FILTER" : {
+    "EXCLUDE_FRANCHISE": "Exclure la franchise du filtre",
+    "EXCLUDE_HOLDER": "Exclure le jeu ou l'anime du filtre",
+    "EXCLUDE_MUSIC": "Exclure la musique du filtre"
+  }
 }

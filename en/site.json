@@ -13,13 +13,16 @@
   "HTTP_ERROR": "Oops, error {{code}}!",
 
   "HOMEPAGE": {
-    "DESCRIPTION": "It's {{amt}}+ musics, a bot Discord and a site dedicated to musics.",
-    "ADD_BOT": "Add the Discord bot",
+    "DESCRIPTION": "It is a website with {{amt}}+ musics. The site is in beta version. Bugs may occur. You can help us find them by reporting them on our Discord server.",
     "JOIN_SERVER": "Join us on Discord",
     "DL_CLIENT": "Download our client",
     "TRANSLATE": "Translate the website",
+    "CREDITS": "Credits",
     "TOS": "Terms of Service",
     "PRIVACY_POLICY": "Privacy Policy",
     "DISCLAIMER": "DISCLAIMER: This website is NOT a music download site. The rights of the music belongs to the original creators. No copyright infrigement intended."
-  }
+  },
+
+  "CONSOLE_WARNING": "HOLD ON! If someone asked you to write something here, it's a scam! Never write anything here unless you are sure of what you are doing.",
+  "COOKIE_WARNING": "NEVER share your sid cookie. A malicious person could ask you for it to access your account."
 }

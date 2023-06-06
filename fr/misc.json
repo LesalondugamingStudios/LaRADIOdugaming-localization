@@ -1,5 +1,6 @@
 {
   "ERROR": "Une erreur est survenue !",
+  "REQUEST_FAILED": "La requête a échoué.",
 
   "NAME": "Nom",
 
@@ -24,5 +25,8 @@
   "PARODY": "Parodie",
   "FANMADE": "Fanmade",
 
-  "UNSPECIFIED": "Non spécifié"
+  "UNSPECIFIED": "Non spécifié",
+  "UNKNOWN": "Inconnu",
+
+  "COPIED_TO_CLIPBOARD": "Copié dans le presse-papier."
 }

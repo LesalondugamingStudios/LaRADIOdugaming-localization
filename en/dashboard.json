@@ -8,6 +8,7 @@
   "HOLDER_NAME": "{{type}} {{name}}",
   "FRANCHISE_LIST": "Franchise list",
   "HOLDER_LIST": "Game and anime list",
+  "LIST": "Content list",
 
   "FRANCHISES": "Franchises",
   "HOLDERS": "Games and animes",
@@ -24,6 +25,15 @@
   "SETTINGS_TITLE": "User settings",
   "SETTINGS": {
     "REFRESH_MUSIC_LIST": "Recommendations reinitialized after each song transition",
-    "LYRICS": "Display lyrics when available"
+    "LYRICS": "Display lyrics when available",
+
+    "SESSIONS": "Your sessions",
+    "SESSION_EXPIRES": "Expires: {{date}}",
+    "SESSION_TYPES": {
+      "WEBSITE": "Wesbite",
+      "WINDOWSAPP": "Windows Client",
+      "ANDROIDAPP": "Android Client"
+    },
+    "SESSION_LOGOUT": "Log out of session"
   }
 }
