@@ -1,6 +1,8 @@
 {
   "MUSIC_PLAYER": "Lecteur de musique",
-  "DESCRIPTION": "Écoute {{music}} sur la radio !",
+  "DESCRIPTION": "Écoute {{music}} par {{artist}}.",
+
+  "UNKNOWN_ARTIST": "artiste inconnu",
 
   "JAVASCRIPT": "JavaScript est nécessaire pour faire fonctionner le lecteur de musique.",
   "HTMLAUDIO_ERROR": "Votre navigateur ne prend pas en charge l'élément audio.",
@@ -8,10 +10,14 @@
   "MUSIC_UNAVAILABLE": "La musique demandée semble être introuvable, veuillez réessayer avec une autre !",
   "PLAYLIST_FINISHED": "Tu as terminé d'écouter toutes les musiques de la playlist.",
 
+  "ALBUM_RESTRICTED_SEARCH": "La recherche est désactivée lors de l'écoute d'un album.",
+
+  "PLAY_FULL_VERSION": "Jouer la version complète",
   "RECOMMENDATIONS": "Recommandations",
+  "SEE_ALSO": "Voir aussi",
   "SHARE": "Partager la musique",
 
-  "FILTER" : {
+  "FILTER": {
     "EXCLUDE_FRANCHISE": "Exclure la franchise du filtre",
     "EXCLUDE_HOLDER": "Exclure le jeu ou l'anime du filtre",
     "EXCLUDE_MUSIC": "Exclure la musique du filtre"

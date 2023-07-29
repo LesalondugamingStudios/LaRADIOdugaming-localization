@@ -1,6 +1,8 @@
 {
   "MUSIC_PLAYER": "Music player",
-  "DESCRIPTION": "Listen to {{music}} in the radio!",
+  "DESCRIPTION": "Listen to {{music}} by {{artist}}.",
+
+  "UNKNOWN_ARTIST": "unknown artist",
 
   "JAVASCRIPT": "JavaScript is required to run the music player.",
   "HTMLAUDIO_ERROR": "Your browser does not support the audio element.",
@@ -8,10 +10,14 @@
   "MUSIC_UNAVAILABLE": "The requested music seems to be unavailable, please try again with another one!",
   "PLAYLIST_FINISHED": "You have finished listening to all the music in the playlist.",
 
+  "ALBUM_RESTRICTED_SEARCH": "Search is disabled while an album is playing.",
+
+  "PLAY_FULL_VERSION": "Play the full version",
   "RECOMMENDATIONS": "Recommendations",
+  "SEE_ALSO": "See also",
   "SHARE": "Share the music",
 
-  "FILTER" : {
+  "FILTER": {
     "EXCLUDE_FRANCHISE": "Exclude this franchise from the filter",
     "EXCLUDE_HOLDER": "Exclude this game or anime from the filter",
     "EXCLUDE_MUSIC": "Exclude this music from the filter"

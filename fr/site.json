@@ -1,22 +1,26 @@
 {
+  "MOTTO": "Plongez dans l'aventure musicale des jeux et des animes.",
   "DESCRIPTION": "LaRADIOdugaming, un service musique fait pour écouter vos OST de jeux et animes préférées.",
 
   "HOME": "Maison",
   "DASHBOARD": "Dashboard",
   "MENU": "Menu",
   "SEARCH": "Rechercher",
+  "INFO": "Informations",
   "LOGIN": "Connexion",
   "LOGOUT": "Déconnexion",
 
   "BACK_MENU": "Retour au menu",
 
-  "HTTP_ERROR": "Oups, erreur {{code}} !",
+  "HTTP_ERROR": "Oups ! {{code}}: {{name}}",
 
   "HOMEPAGE": {
     "DESCRIPTION": "C'est un site avec {{amt}}+ musiques. Le site est en version bêta. Des bugs peuvent survenir. Vous pouvez nous aider à les trouver en les signalant sur notre serveur Discord.",
+    "LINKS": "Liens",
     "JOIN_SERVER": "Rejoint nous sur Discord",
     "DL_CLIENT": "Télécharge notre client",
     "TRANSLATE": "Traduit le site",
+    "LEGAL": "Légal",
     "CREDITS": "Crédits",
     "TOS": "Conditions Générales d'Utilisation",
     "PRIVACY_POLICY": "Politique de Confidentialité",

@@ -2,6 +2,7 @@
   "REWIND_ERROR": "There is no music to replay.",
   "SKIP_ERROR": "No music to skip.",
   "FILTER_ERROR": "The filter seems invalid!",
+  "ALBUM_ERROR": "The album is invalid.",
 
   "MUSIC_ERROR": "An error occurred while playing the music.",
 

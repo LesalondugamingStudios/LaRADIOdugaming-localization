@@ -4,10 +4,12 @@
   "FRANCHISE_TRENDING": "Trending franchises",
   "HOLDER_TRENDING": "Trending games and animes",
 
-  "FRANCHISE_NAME": "Franchise {{name}}",
-  "HOLDER_NAME": "{{type}} {{name}}",
+  "FRANCHISE_NAME": "{{name}} (Franchise)",
+  "HOLDER_NAME": "{{name}} ({{type}} of {{year}})",
+  "ALBUM_NAME": "{{name}} (Album)",
   "FRANCHISE_LIST": "Franchise list",
   "HOLDER_LIST": "Game and anime list",
+  "ALBUM_LIST": "Album list",
   "LIST": "Content list",
 
   "FRANCHISES": "Franchises",
@@ -15,17 +17,22 @@
   "MUSICS": "Musics",
   "ALBUMS": "Albums",
   "FRANCHISE_MUSIC_LIST": "Franchise's musics",
+  "FRANCHISE_ALBUM_LIST": "Franchise's albums",
   
   "YEAR": "Year: {{year}}",
   "STUDIOS": "Studios: {{studios}}",
   "DEVICES": "Devices: {{devices}}",
+
+  "DISC": "Disc {{n}}",
   
   "SEARCH_TITLE": "{{query}} - Search",
+  "SEARCH": "Searching \"{{query}}\"",
 
   "SETTINGS_TITLE": "User settings",
   "SETTINGS": {
     "REFRESH_MUSIC_LIST": "Recommendations reinitialized after each song transition",
     "LYRICS": "Display lyrics when available",
+    "PLAY_FULL_VERSION": "Play the full version of the music, when available",
 
     "SESSIONS": "Your sessions",
     "SESSION_EXPIRES": "Expires: {{date}}",

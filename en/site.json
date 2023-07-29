@@ -1,22 +1,26 @@
 {
+  "MOTTO": "Dive into the musical adventure of games and anime.",
   "DESCRIPTION": "LaRADIOdugaming, a music platform made to listen to your favorite game and anime OST.",
 
   "HOME": "Home",
   "DASHBOARD": "Dashboard",
   "MENU": "Menu",
   "SEARCH": "Search",
+  "INFO": "Information",
   "LOGIN": "Log in",
   "LOGOUT": "Log out",
 
   "BACK_MENU": "Back to menu",
 
-  "HTTP_ERROR": "Oops, error {{code}}!",
+  "HTTP_ERROR": "Oops! {{code}}: {{name}}",
 
   "HOMEPAGE": {
     "DESCRIPTION": "It is a website with {{amt}}+ musics. The site is in beta version. Bugs may occur. You can help us find them by reporting them on our Discord server.",
+    "LINKS": "Links",
     "JOIN_SERVER": "Join us on Discord",
     "DL_CLIENT": "Download our client",
     "TRANSLATE": "Translate the website",
+    "LEGAL": "Legal",
     "CREDITS": "Credits",
     "TOS": "Terms of Service",
     "PRIVACY_POLICY": "Privacy Policy",
